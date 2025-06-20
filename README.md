@@ -58,7 +58,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 1. **Update System and Install Dependencies:**
 
    ```sh
-   sudo apt update && sudo apt upgrade -y
+BOT_LANG=es   sudo apt update && sudo apt upgrade -y
    sudo apt install git ffmpeg curl -y
    ```
 
